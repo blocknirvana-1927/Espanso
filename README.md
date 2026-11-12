@@ -201,4 +201,4 @@ This repository serves as the official landing page for Espanso. The software is
 **Get the most recent version of Espanso today!**
 
 ---
-**Last updated:** 2026-11-11 18:29:54 UTC
+**Last updated:** 2026-11-12 01:25:01 UTC
